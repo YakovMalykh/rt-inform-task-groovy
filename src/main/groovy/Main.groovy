@@ -9,7 +9,7 @@ static void main(String[] args) {
     println(map)
 }
 
-private static Map<Integer, Iterator> listToMapFirst(List<Integer> list) {
+private static Map<Integer, Integer> listToMapFirst(List<Integer> list) {
     Map<Integer, Integer> map = new HashMap<>()
 
     list.forEach(e -> {
@@ -19,7 +19,7 @@ private static Map<Integer, Iterator> listToMapFirst(List<Integer> list) {
     map
 }
 
-private static Map<Integer, Iterator> listToMapSecond(List<Integer> list) {
+private static Map<Integer, Integer> listToMapSecond(List<Integer> list) {
     Map<Integer, Integer> map = new HashMap<>()
 
     for (Integer key : list) {
@@ -31,7 +31,7 @@ private static Map<Integer, Iterator> listToMapSecond(List<Integer> list) {
     map
 }
 
-private static Map<Integer, Iterator> listToMapThird(List<Integer> list) {
+private static Map<Integer, Integer> listToMapThird(List<Integer> list) {
     Map<Integer, Integer> map = new HashMap<>()
 
     for (Integer key : list) {
