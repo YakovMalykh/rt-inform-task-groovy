@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68bae870-0221-4892-a65b-692522c71113" name="Changes" comment="решение">
+    <list default="true" id="68bae870-0221-4892-a65b-692522c71113" name="Changes" comment="исправил небольшую описку">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/Main.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/groovy/Main.groovy" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +39,13 @@
   }
 }</component>
   <component name="RunManager" selected="Groovy.Main (1)">
+    <configuration name="TaskJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TaskJava" />
+      <module name="rt-inform-task-groovy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (1)" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="rt-inform-task-groovy" />
       <setting name="path" value="file://$PROJECT_DIR$/src/main/groovy/Main.groovy" />
@@ -62,6 +71,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Groovy.Main (1)" />
+        <item itemvalue="Application.TaskJava" />
         <item itemvalue="Groovy.Main" />
       </list>
     </recent_temporary>
@@ -75,6 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674038694216</updated>
       <workItem from="1674038695560" duration="2181000" />
+      <workItem from="1674041392286" duration="1418000" />
     </task>
     <task id="LOCAL-00001" summary="решение">
       <created>1674040903864</created>
@@ -83,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674040903864</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="исправил небольшую описку">
+      <created>1674041576519</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674041576519</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +120,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="решение" />
-    <option name="LAST_COMMIT_MESSAGE" value="решение" />
+    <MESSAGE value="исправил небольшую описку" />
+    <option name="LAST_COMMIT_MESSAGE" value="исправил небольшую описку" />
   </component>
 </project>

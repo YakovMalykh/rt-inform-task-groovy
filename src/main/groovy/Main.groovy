@@ -2,9 +2,9 @@ static void main(String[] args) {
 
     List<Integer> list = List.of(1, 3, 4, 5, 1, 5, 4, 5, 10)
 
-//  def map = listToMapFirst(list);
-//  def map = listToMapSecond(list);
-    def map = listToMapThird(list)
+//  def map = listToMapFirst(list)
+  def map = listToMapSecond(list)
+//    def map = listToMapThird(list)
 
     println(map)
 }
